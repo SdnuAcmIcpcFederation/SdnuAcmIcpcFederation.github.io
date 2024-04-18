@@ -1,24 +1,13 @@
 import { defineConfig } from 'vitepress'
 
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "SDNU ACM",
-  description: "山东师范大学程序设计协会",
-  
+  title: "山东师范大学程序设计协会",
+  description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      {
-        text: '算法',
-        items:[
-          {
-            text: '搜索',
-            link: '/1语法基础/变量'
-          }
-        ]
-      },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
