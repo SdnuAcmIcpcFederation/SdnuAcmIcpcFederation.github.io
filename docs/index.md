@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "山东师范大学程序设计协会"
-  text: "A VitePress Site"
+  name: "SDNU ACM"
+  text: "山东师大icpc集训队"
   tagline: My great project tagline
   actions:
     - theme: brand
