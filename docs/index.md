@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "le"
-  text: "hah"
+  name: "SDNU ACM"
+  text: "山东师范大学程序设计协会"
   tagline: My great project tagline
   actions:
     - theme: brand
