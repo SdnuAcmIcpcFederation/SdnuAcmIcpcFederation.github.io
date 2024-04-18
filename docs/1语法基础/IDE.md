@@ -1,5 +1,5 @@
 
-[toc]
+[[toc]]
 
 ### 1. IDE
 #### 我们集训队的传统: codeblocks! 

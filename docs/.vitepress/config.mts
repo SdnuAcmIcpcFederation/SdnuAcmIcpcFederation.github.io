@@ -24,12 +24,20 @@ export default defineConfig({
       '/1语法基础/':
       [
         {
-          
         text: '语法基础',
         items:[
-          {text:'变量',link:'/1语法基础/变量'}
+          
+          {text:'helloworld',link:'/1语法基础/helloworld'},
+          {text:'IDE',link:'/1语法基础/IDE'},
+          {text:'变量',link:'/1语法基础/变量'},
+          {text:'分支',link:'/1语法基础/分支'},
+          {text:'基础',link:'/1语法基础/基础'},
+          {text:'循环',link:'/1语法基础/循环'},
+          {text:'运算符',link:'/1语法基础/运算符'}
+
         ]
-        }
+        },
+
       ]
     },
     // [
@@ -46,5 +54,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
+  },
+  markdown:{
+    math:true
   }
 })
