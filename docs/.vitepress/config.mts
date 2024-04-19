@@ -8,6 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      {text:'加入我们',link:'/纳新'},
       {
         text: '算法',
         items:[

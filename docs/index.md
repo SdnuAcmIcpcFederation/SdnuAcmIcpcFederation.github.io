@@ -8,8 +8,8 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: 24纳新
-      link: /24纳新
+      text: 纳新
+      link: /纳新
     - theme: alt
       text: API Examples
       link: /api-examples
